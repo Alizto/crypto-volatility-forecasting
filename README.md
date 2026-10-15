@@ -72,7 +72,7 @@ notebook's Conclusion section for the full breakdown.
 
 | | |
 |---|---|
-| ![Training curves](results/figures/training_curves.png) | ![Past, present, future](results/figures/past_present_future.png) |
+| ![Past, present, future](results/figures/past_present_future.png) |
 
 ## Known limits
 
@@ -92,6 +92,5 @@ notebook's Conclusion section for the full breakdown.
    ├── test_report.csv
    ├── past_present_future.csv
    └── figures/
-       ├── training_curves.png
        └── past_present_future.png
 ```
