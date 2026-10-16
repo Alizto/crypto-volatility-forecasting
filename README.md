@@ -68,11 +68,7 @@ SOL's live forecast is the largest predicted move of any coin (+5.9% over 7 days
 with the worst test-set accuracy — treat that one with extra caution. See `results/test_report.csv` and the
 notebook's Conclusion section for the full breakdown.
 
-### Plots
 
-| | |
-|---|---|
-| ![Past, present, future](results/figures/past_present_future.png) |
 
 ## Known limits
 
